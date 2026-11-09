@@ -4,6 +4,12 @@
   "version": "1.0.0",
   "description": "Met en relation les outils entre eux",
   "permissions": ["tabs"],
+    "content_scripts": [
+    {
+        "matches": ["https://chatgpt.com/*"],
+        "js": ["content.js"]
+    }
+    ],
   "action": {
     "default_popup": "popup.html"
   }
