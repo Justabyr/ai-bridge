@@ -1,0 +1,10 @@
+
+{
+  "manifest_version": 3,
+  "name": "AI Bridge",
+  "version": "1.0.0",
+  "description": "Met en relation les outils entre eux",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
