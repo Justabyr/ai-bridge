@@ -75,8 +75,8 @@ En cours de développement.
 - [x] Initialisation du projet.
 - [x] Création du manifest.json.
 - [x] Initialisation de Git.
-- [ ] Création de l'interface popup.
-- [ ] Détection des onglets.
+- [x] Création de l'interface popup.
+- [x] Détection des onglets.
 - [ ] Récupération des messages.
 - [ ] Validation manuelle des transferts.
 - [ ] Communication bidirectionnelle.
